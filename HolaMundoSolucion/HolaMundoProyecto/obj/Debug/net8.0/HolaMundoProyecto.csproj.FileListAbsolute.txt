@@ -1,0 +1,14 @@
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.exe
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.deps.json
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.runtimeconfig.json
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.dll
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.pdb
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.AssemblyInfoInputs.cache
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.AssemblyInfo.cs
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.csproj.CoreCompileInputs.cache
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.dll
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\refint\HolaMundoProyecto.dll
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.pdb
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.genruntimeconfig.cache
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\ref\HolaMundoProyecto.dll
