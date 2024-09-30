@@ -1,4 +1,17 @@
-# Auto detect text files and perform LF normalization
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
 .vs/
-* text=auto
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
 
