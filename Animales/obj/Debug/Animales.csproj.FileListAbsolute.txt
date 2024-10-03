@@ -1,0 +1,7 @@
+C:\CursoNET-Azure\C#\Animales\bin\Debug\Animales.exe.config
+C:\CursoNET-Azure\C#\Animales\bin\Debug\Animales.exe
+C:\CursoNET-Azure\C#\Animales\bin\Debug\Animales.pdb
+C:\CursoNET-Azure\C#\Animales\obj\Debug\Animales.csproj.AssemblyReference.cache
+C:\CursoNET-Azure\C#\Animales\obj\Debug\Animales.csproj.CoreCompileInputs.cache
+C:\CursoNET-Azure\C#\Animales\obj\Debug\Animales.exe
+C:\CursoNET-Azure\C#\Animales\obj\Debug\Animales.pdb

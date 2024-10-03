@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\CursoNET-Azure\\C#\\HolaMundoSolucion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFC16F9C-9118-4145-9844-8538E9D26E63}|HolaMundoProyecto\\HolaMundoProyecto.csproj|c:\\cursonet-azure\\c#\\holamundosolucion\\holamundoproyecto\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC16F9C-9118-4145-9844-8538E9D26E63}|HolaMundoProyecto\\HolaMundoProyecto.csproj|solutionrelative:holamundoproyecto\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFC16F9C-9118-4145-9844-8538E9D26E63}|HolaMundoProyecto\\HolaMundoProyecto.csproj|c:\\cursonet-azure\\c#\\holamundosolucion\\holamundoproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFC16F9C-9118-4145-9844-8538E9D26E63}|HolaMundoProyecto\\HolaMundoProyecto.csproj|solutionrelative:holamundoproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Animales.cs",
+              "DocumentMoniker": "C:\\CursoNET-Azure\\C#\\HolaMundoSolucion\\HolaMundoProyecto\\Animales.cs",
+              "RelativeDocumentMoniker": "HolaMundoProyecto\\Animales.cs",
+              "ToolTip": "C:\\CursoNET-Azure\\C#\\HolaMundoSolucion\\HolaMundoProyecto\\Animales.cs",
+              "RelativeToolTip": "HolaMundoProyecto\\Animales.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwHMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:54:02.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CursoNET-Azure\\C#\\HolaMundoSolucion\\HolaMundoProyecto\\Program.cs",
               "RelativeDocumentMoniker": "HolaMundoProyecto\\Program.cs",
               "ToolTip": "C:\\CursoNET-Azure\\C#\\HolaMundoSolucion\\HolaMundoProyecto\\Program.cs",
               "RelativeToolTip": "HolaMundoProyecto\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwDAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T15:58:00.079Z",
               "EditorCaption": ""

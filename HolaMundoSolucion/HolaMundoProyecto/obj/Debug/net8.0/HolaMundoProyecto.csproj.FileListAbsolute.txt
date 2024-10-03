@@ -12,3 +12,4 @@ C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\refint
 C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.pdb
 C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.genruntimeconfig.cache
 C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\ref\HolaMundoProyecto.dll
+C:\CursoNET-Azure\C#\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.sourcelink.json
