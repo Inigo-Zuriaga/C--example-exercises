@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animales", "Animales.csproj", "{7E815DA2-6B10-41ED-A45A-EBFBC7693A4D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animales2", "..\Animales2\Animales2.csproj", "{A4AF3954-6CC8-40A3-916E-6A111B68531F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animales2", "..\Animales2\Animales2.csproj", "{A4AF3954-6CC8-40A3-916E-6A111B68531F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7E815DA2-6B10-41ED-A45A-EBFBC7693A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E815DA2-6B10-41ED-A45A-EBFBC7693A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E815DA2-6B10-41ED-A45A-EBFBC7693A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E815DA2-6B10-41ED-A45A-EBFBC7693A4D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A4AF3954-6CC8-40A3-916E-6A111B68531F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A4AF3954-6CC8-40A3-916E-6A111B68531F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4AF3954-6CC8-40A3-916E-6A111B68531F}.Release|Any CPU.ActiveCfg = Release|Any CPU

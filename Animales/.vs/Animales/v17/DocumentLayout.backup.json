@@ -3,14 +3,10 @@
   "WorkspaceRootPath": "C:\\CursoNET-Azure\\C#\\Animales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4AF3954-6CC8-40A3-916E-6A111B68531F}|..\\Animales2\\Animales2.csproj|c:\\cursonet-azure\\c#\\animales2\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4AF3954-6CC8-40A3-916E-6A111B68531F}|..\\Animales2\\Animales2.csproj|c:\\cursonet-azure\\c#\\animales2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E815DA2-6B10-41ED-A45A-EBFBC7693A4D}|Animales.csproj|c:\\cursonet-azure\\c#\\animales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E815DA2-6B10-41ED-A45A-EBFBC7693A4D}|Animales.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4AF3954-6CC8-40A3-916E-6A111B68531F}|..\\Animales2\\Animales2.csproj|c:\\cursonet-azure\\c#\\animales2\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,45 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CursoNET-Azure\\C#\\Animales2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Animales2\\Program.cs",
               "ToolTip": "C:\\CursoNET-Azure\\C#\\Animales2\\Program.cs",
               "RelativeToolTip": "..\\Animales2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:46:17.576Z",
+              "WhenOpened": "2024-10-04T14:58:11.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Animales.cs",
               "DocumentMoniker": "C:\\CursoNET-Azure\\C#\\Animales2\\Animales.cs",
               "RelativeDocumentMoniker": "..\\Animales2\\Animales.cs",
               "ToolTip": "C:\\CursoNET-Azure\\C#\\Animales2\\Animales.cs",
               "RelativeToolTip": "..\\Animales2\\Animales.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFAAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv3MAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:46:14.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CursoNET-Azure\\C#\\Animales\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\CursoNET-Azure\\C#\\Animales\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:08:04.896Z",
+              "WhenOpened": "2024-10-04T14:49:52.765Z",
               "EditorCaption": ""
             }
           ]

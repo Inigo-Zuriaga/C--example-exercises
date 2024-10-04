@@ -81,6 +81,7 @@ namespace AnimalesNamespace
 
             Console.WriteLine("Hola, cuantos animales quieres añadir?");
             numAnimales = int.Parse(Console.ReadLine());
+
             Console.WriteLine("Que tipo de animales quieres añadir?");
             Console.WriteLine("1. Cualquiera.");
             Console.WriteLine("2. Salvajes");
@@ -90,8 +91,6 @@ namespace AnimalesNamespace
 
             for (int i = 0; i < numAnimales; i++)
             {
-
-
 
                 switch (categoria)
                 {
@@ -105,7 +104,13 @@ namespace AnimalesNamespace
                         Animal animalSalvaje = pedirAnimalSalvaje();
                         animales.Add(animalSalvaje); //añado a al lista
                         break;
+                    case 3:
+                        vueltas++;
+                        Animal animalDomestico = pedirAnimalDomestico();
+                        animales.Add(animalDomestico); //añado a al lista
+                        break;
                 }
+
 
             }
         }
@@ -172,6 +177,46 @@ namespace AnimalesNamespace
             int nvPeligrosidad = int.Parse(Console.ReadLine());
 
             return new AnimalSalvaje(tipo, raza, alimentacion, habitat, extinto, peso, tamano, velocidadMax, cazador, nvPeligrosidad);
+        }
+
+        public static AnimalDomestico pedirAnimalDomestico()
+        {
+            Console.WriteLine("\nIntroduce los datos del animal base: " + vueltas + " de " + numAnimales);
+            Console.Write("Tipo: ");
+            string tipo = Console.ReadLine();
+
+            Console.Write("Raza: ");
+            string raza = Console.ReadLine();
+
+            Console.Write("Alimentación: ");
+            string alimentacion = Console.ReadLine();
+
+            Console.Write("Hábitat: ");
+            string habitat = Console.ReadLine();
+
+            Console.Write("¿Está extinto? (true/false): ");
+            bool extinto = bool.Parse(Console.ReadLine());
+
+            Console.Write("Peso: ");
+            double peso = double.Parse(Console.ReadLine());
+
+            Console.Write("Tamaño: ");
+            double tamano = double.Parse(Console.ReadLine());
+
+            Console.Write("Nombre del dueño: ");
+            string nombreDueno = Console.ReadLine();
+
+            Console.Write("Independiente?: ");
+            bool independiente = bool.Parse(Console.ReadLine());
+
+            Console.Write("Compañía: ");
+            string compania = Console.ReadLine();
+
+            Console.Write("Facilidad de cuidado: ");
+            string facilidadCuidado = Console.ReadLine();
+
+            return new AnimalDomestico(tipo, raza, alimentacion, habitat, extinto, peso, tamano, nombreDueno, independiente, compania, facilidadCuidado);
+
         }
     }
     }
