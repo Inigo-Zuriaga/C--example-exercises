@@ -1,0 +1,15 @@
+C:\CursoNET-Azure\C#\ProyectosMini\bin\Debug\net8.0\ProyectosMini.exe
+C:\CursoNET-Azure\C#\ProyectosMini\bin\Debug\net8.0\ProyectosMini.deps.json
+C:\CursoNET-Azure\C#\ProyectosMini\bin\Debug\net8.0\ProyectosMini.runtimeconfig.json
+C:\CursoNET-Azure\C#\ProyectosMini\bin\Debug\net8.0\ProyectosMini.dll
+C:\CursoNET-Azure\C#\ProyectosMini\bin\Debug\net8.0\ProyectosMini.pdb
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.AssemblyInfoInputs.cache
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.AssemblyInfo.cs
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.csproj.CoreCompileInputs.cache
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.sourcelink.json
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.dll
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\refint\ProyectosMini.dll
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.pdb
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.genruntimeconfig.cache
+C:\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ref\ProyectosMini.dll
