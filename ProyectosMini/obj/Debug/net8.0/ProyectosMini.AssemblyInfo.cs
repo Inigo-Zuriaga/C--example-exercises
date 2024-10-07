@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectosMini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06bab40532aec64d1ee6883be50af4da0fee8a19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+170e1ebb07a2a8d043cbf9dbde245320f42fe1a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectosMini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectosMini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

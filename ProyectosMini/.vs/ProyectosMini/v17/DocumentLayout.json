@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|c:\\cursonet-azure\\c#\\proyectosmini\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|solutionrelative:empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|c:\\cursonet-azure\\c#\\proyectosmini\\monedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|solutionrelative:monedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|c:\\cursonet-azure\\c#\\proyectosmini\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|c:\\cursonet-azure\\c#\\proyectosmini\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|solutionrelative:empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "Main.cs",
               "ToolTip": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\Main.cs",
               "RelativeToolTip": "Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T18:13:10.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\Libro.cs",
               "RelativeDocumentMoniker": "Libro.cs",
@@ -55,31 +55,30 @@
               "RelativeToolTip": "Libro.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowBwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:42:18.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T18:42:18.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Empleados.cs",
               "DocumentMoniker": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\Empleados.cs",
               "RelativeDocumentMoniker": "Empleados.cs",
               "ToolTip": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\Empleados.cs",
               "RelativeToolTip": "Empleados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T18:08:17.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Monedas.cs",
               "DocumentMoniker": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\Monedas.cs",
               "RelativeDocumentMoniker": "Monedas.cs",
               "ToolTip": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\Monedas.cs",
               "RelativeToolTip": "Monedas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T17:28:27.83Z",
               "EditorCaption": ""
