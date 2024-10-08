@@ -6,7 +6,7 @@ class Program
     {
         while (true)
         {
-            Console.WriteLine("Elige el ejercicio: 1) Empleados. 2)Libros. 3) Conversor Monedas. 4) salir ");
+            Console.WriteLine("Elige el ejercicio: 1) Empleados. 2)Libros. 3) Conversor Monedas. 4) Cafetera 0) Salir. ");
             int ejercicio = int.Parse(Console.ReadLine());
 
             switch (ejercicio)
@@ -41,9 +41,17 @@ class Program
                     double cantidadAgua = double.Parse(Console.ReadLine());
                     cafe1.AgregarAgua(cantidadAgua);
 
+                    Console.WriteLine("Agrega una cantidad específica de cafe a la cafetera (g).");
+                    double cantidadCafe = double.Parse(Console.ReadLine());
+                    cafe1.AgregarCafe(cantidadCafe);
 
+                    Console.WriteLine("Agrega una cantidad específica de azúcar a la cafetera (g).");
+                    double cantidadAzucar = double.Parse(Console.ReadLine());
+                    cafe1.AgregarCafe(cantidadAzucar);
+
+                    cafe1.PrepararCafe();
                     break;
-                case 5:
+                case 0:
                     //Cerrar
                     return;
             }
