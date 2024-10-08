@@ -1,6 +1,4 @@
-﻿
-
-namespace ProyectosMini;
+﻿namespace ProyectosMini;
 
 class Program
 {
@@ -22,12 +20,6 @@ class Program
                     empleado2.MostrarInfo();
                     empleado3.MostrarInfo();
                     break;
-
-                case 3:
-                    //Llamar al método para pedir monedas y realizar la conversión
-                    Moneda.PedirMonedas();
-                    break;
-
                 case 2:
                     Libro libro1 = new Libro("Mortadelo", "Ibañez", 100);
                     Libro libro2 = new Libro("Quijote", "Cervantes", 400);
@@ -37,7 +29,21 @@ class Program
                     libro2.MostrarDetalles();
                     libro2.esLargo();
                     break;
+
+                case 3:
+                    //Llamar al método para pedir monedas y realizar la conversión
+                    Moneda.PedirMonedas();
+                    break;
                 case 4:
+                    Cafetera cafe1 = new Cafetera(); // Crear una nueva instancia de Cafetera
+
+                    Console.WriteLine("Agrega una cantidad específica de agua a la cafetera (ml).");
+                    double cantidadAgua = double.Parse(Console.ReadLine());
+                    cafe1.AgregarAgua(cantidadAgua);
+
+
+                    break;
+                case 5:
                     //Cerrar
                     return;
             }
