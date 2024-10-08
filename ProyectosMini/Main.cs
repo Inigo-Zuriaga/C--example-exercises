@@ -1,4 +1,6 @@
-﻿namespace ProyectosMini;
+﻿using AnimalesNamespace;
+
+namespace ProyectosMini;
 
 class Program
 {
@@ -6,7 +8,7 @@ class Program
     {
         while (true)
         {
-            Console.WriteLine("Elige el ejercicio: 1) Empleados. 2)Libros. 3) Conversor Monedas. 4) Cafetera 0) Salir. ");
+            Console.WriteLine("Elige el ejercicio: 1) Empleados. 2)Libros. 3) Conversor Monedas. 4) Cafetera. 5) Animales varios 0) Salir. ");
             int ejercicio = int.Parse(Console.ReadLine());
 
             switch (ejercicio)
@@ -35,7 +37,7 @@ class Program
                     Moneda.PedirMonedas();
                     break;
                 case 4:
-                    Cafetera cafe1 = new Cafetera(); // Crear una nueva instancia de Cafetera
+                    Cafetera cafe1 = new Cafetera();
 
                     Console.WriteLine("Agrega una cantidad específica de agua a la cafetera (ml).");
                     double cantidadAgua = double.Parse(Console.ReadLine());
@@ -51,11 +53,14 @@ class Program
 
                     cafe1.PrepararCafe();
                     break;
+                case 5:
+                    Animales.PedirAnimales();
+                    break;
                 case 0:
                     //Cerrar
                     return;
             }
-            Console.WriteLine("------------------------------------------------------");
+            Console.WriteLine($"\n ---------------------------------------------------------------------------- \n");
         }
     }
 }
