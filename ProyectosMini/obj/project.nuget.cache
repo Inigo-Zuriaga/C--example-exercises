@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YbzhIu1aKtM=",
+  "dgSpecHash": "1Fy+MRYADvI=",
   "success": true,
   "projectFilePath": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\ProyectosMini.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\CursosTardes\\.nuget\\packages\\htmlagilitypack\\1.11.67\\htmlagilitypack.1.11.67.nupkg.sha512"
+  ],
   "logs": []
 }
