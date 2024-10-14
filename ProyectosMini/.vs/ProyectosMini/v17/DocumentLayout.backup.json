@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\ProyectosMini\\",
+  "WorkspaceRootPath": "C:\\Users\\Zuri\\Desktop\\C--example-exercises\\ProyectosMini\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\ProyectosMini\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|c:\\users\\zuri\\desktop\\c--example-exercises\\proyectosmini\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|solutionrelative:cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|c:\\users\\zuri\\desktop\\c--example-exercises\\proyectosmini\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9782F612-FCEE-4407-960F-6AC6793C0710}|ProyectosMini.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cafetera.cs",
+              "DocumentMoniker": "C:\\Users\\Zuri\\Desktop\\C--example-exercises\\ProyectosMini\\Cafetera.cs",
+              "RelativeDocumentMoniker": "Cafetera.cs",
+              "ToolTip": "C:\\Users\\Zuri\\Desktop\\C--example-exercises\\ProyectosMini\\Cafetera.cs",
+              "RelativeToolTip": "Cafetera.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:01:49.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\ProyectosMini\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\Zuri\\Desktop\\C--example-exercises\\ProyectosMini\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\ProyectosMini\\Main.cs",
+              "ToolTip": "C:\\Users\\Zuri\\Desktop\\C--example-exercises\\ProyectosMini\\Main.cs",
               "RelativeToolTip": "Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T15:38:33.573Z",
               "EditorCaption": ""

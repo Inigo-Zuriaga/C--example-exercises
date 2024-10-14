@@ -49,3 +49,6 @@ C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\r
 C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.pdb
 C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ProyectosMini.genruntimeconfig.cache
 C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\ProyectosMini\obj\Debug\net8.0\ref\ProyectosMini.dll
+C:\Users\Zuri\Desktop\C--example-exercises\ProyectosMini\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Zuri\Desktop\C--example-exercises\ProyectosMini\obj\Debug\net8.0\ProyectosMini.csproj.AssemblyReference.cache
+C:\Users\Zuri\Desktop\C--example-exercises\ProyectosMini\obj\Debug\net8.0\Proyecto.2590A1BB.Up2Date

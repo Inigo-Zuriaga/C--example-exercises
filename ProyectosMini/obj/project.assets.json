@@ -74,24 +74,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CursosTardes\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Zuri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\ProyectosMini.csproj",
+      "projectUniqueName": "C:\\Users\\Zuri\\Desktop\\C--example-exercises\\ProyectosMini\\ProyectosMini.csproj",
       "projectName": "ProyectosMini",
-      "projectPath": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\ProyectosMini.csproj",
-      "packagesPath": "C:\\Users\\CursosTardes\\.nuget\\packages\\",
-      "outputPath": "C:\\CursoNET-Azure\\C#\\ProyectosMini\\obj\\",
+      "projectPath": "C:\\Users\\Zuri\\Desktop\\C--example-exercises\\ProyectosMini\\ProyectosMini.csproj",
+      "packagesPath": "C:\\Users\\Zuri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Zuri\\Desktop\\C--example-exercises\\ProyectosMini\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\CursosTardes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Zuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -39,19 +39,24 @@ class Program
                 case 4:
                     Cafetera cafe1 = new Cafetera();
 
-                    Console.WriteLine("Agrega una cantidad específica de agua a la cafetera (ml).");
-                    double cantidadAgua = double.Parse(Console.ReadLine());
-                    cafe1.AgregarAgua(cantidadAgua);
+                    while (!cafe1.PrepararCafe())
+                    {
 
-                    Console.WriteLine("Agrega una cantidad específica de cafe a la cafetera (g).");
-                    double cantidadCafe = double.Parse(Console.ReadLine());
-                    cafe1.AgregarCafe(cantidadCafe);
+                        Console.WriteLine("Agrega una cantidad específica de agua a la cafetera (ml).");
+                        double cantidadAgua = double.Parse(Console.ReadLine());
+                        cafe1.AgregarAgua(cantidadAgua);
 
-                    Console.WriteLine("Agrega una cantidad específica de azúcar a la cafetera (g).");
-                    double cantidadAzucar = double.Parse(Console.ReadLine());
-                    cafe1.AgregarCafe(cantidadAzucar);
+                        Console.WriteLine("Agrega una cantidad específica de cafe a la cafetera (g).");
+                        double cantidadCafe = double.Parse(Console.ReadLine());
+                        cafe1.AgregarCafe(cantidadCafe);
 
+                        Console.WriteLine("Agrega una cantidad específica de azúcar a la cafetera (g).");
+                        double cantidadAzucar = double.Parse(Console.ReadLine());
+                        cafe1.AgregarAzucar(cantidadAzucar);
+
+                    }
                     cafe1.PrepararCafe();
+            
                     break;
                 case 5:
                     Animales.PedirAnimales();
