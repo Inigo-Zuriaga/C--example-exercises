@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\Tienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D13ACC12-B2C5-4AAE-8874-BD0C58430E5C}|Tienda.csproj|c:\\users\\cursostardes\\desktop\\cursonet-azure\\tienda\\views\\monedas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D13ACC12-B2C5-4AAE-8874-BD0C58430E5C}|Tienda.csproj|solutionrelative:views\\monedas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13ACC12-B2C5-4AAE-8874-BD0C58430E5C}|Tienda.csproj|c:\\users\\cursostardes\\desktop\\cursonet-azure\\tienda\\controllers\\monedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13ACC12-B2C5-4AAE-8874-BD0C58430E5C}|Tienda.csproj|solutionrelative:controllers\\monedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\Tienda\\Views\\Monedas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Monedas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\Tienda\\Views\\Monedas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Monedas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T18:34:29.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonedasController.cs",
+              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\Tienda\\Controllers\\MonedasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MonedasController.cs",
+              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\Tienda\\Controllers\\MonedasController.cs*",
+              "RelativeToolTip": "Controllers\\MonedasController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:32:26.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
