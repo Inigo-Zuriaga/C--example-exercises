@@ -1,0 +1,25 @@
+﻿@model Moneda
+
+<div class="container mt-5">
+    <h2 class="text-center">Detalles de la Moneda</h2>
+
+    <div class="card mt-4">
+        <div class="card-header bg-primary text-white">
+            <h4>@Model.Nombre</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Código</dt>
+                <dd class="col-sm-9">@Model.Codigo</dd>
+
+                <dt class="col-sm-3">Símbolo</dt>
+                <dd class="col-sm-9">@Model.Simbolo</dd>
+            </dl>
+        </div>
+        <div class="card-footer">
+            <a href="@Url.Action("Index", "Monedas")" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Volver a la Lista
+            </a>
+        </div>
+    </div>
+</div>

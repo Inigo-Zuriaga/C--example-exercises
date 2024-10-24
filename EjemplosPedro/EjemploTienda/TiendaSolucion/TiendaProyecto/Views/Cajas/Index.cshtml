@@ -1,0 +1,81 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Caja<int> cajaEntero = ViewBag.CajaEntero;
+    var cajaDecimal = ViewBag.CajaDecimal;
+    var cajaString = ViewBag.CajaString;
+    var cajaCompleja = ViewBag.CajaCompleja;
+}
+
+
+
+<p>Mostrar una caja que almacena un entero: @cajaEntero.Contenido</p>
+
+<p>Mostrar una caja que almacena un decimal: @cajaDecimal.Contenido</p>
+
+<p>Mostrar una caja que almacena un string: @cajaString.Contenido</p>
+
+<p>Mostrar una caja que almacena un objeto complejo: @cajaCompleja.Contenido</p>
+
+<hr />
+
+
+
+
+
+
+
+
+
+<div class="container mt-5">
+    <h2 class="mb-4">Contenido de las Cajas</h2>
+
+    <div class="row">
+        <!-- Caja Entero -->
+        <div class="col-md-3">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-header">Caja de Enteros</div>
+                <div class="card-body">
+                    <h5 class="card-title">Contenido:</h5>
+                    <p class="card-text">@cajaEntero.Contenido</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Caja Decimal -->
+        <div class="col-md-3">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-header">Caja de Decimales</div>
+                <div class="card-body">
+                    <h5 class="card-title">Contenido:</h5>
+                    <p class="card-text">@cajaDecimal.Contenido</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Caja String -->
+        <div class="col-md-3">
+            <div class="card text-white bg-warning mb-3">
+                <div class="card-header">Caja de Cadenas</div>
+                <div class="card-body">
+                    <h5 class="card-title">Contenido:</h5>
+                    <p class="card-text">@cajaString.Contenido</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Caja Objeto Complejo -->
+        <div class="col-md-3">
+            <div class="card text-white bg-danger mb-3">
+                <div class="card-header">Caja de Objetos Complejos</div>
+                <div class="card-body">
+                    <h5 class="card-title">Contenido:</h5>
+                    <p class="card-text">@cajaCompleja.Contenido</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a class="btn btn-secondary mt-4" asp-action="MostrarCajas">Ver Cajas de Nuevo</a>
+</div>

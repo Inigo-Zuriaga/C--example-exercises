@@ -14,5 +14,9 @@ namespace ClasesEmpleados
         {
             Project = project;
         }
+        public override string ObtenerNumeroEmpleado()
+        {
+            return "Subc-" + Id.ToString();
+        }
     }
 }

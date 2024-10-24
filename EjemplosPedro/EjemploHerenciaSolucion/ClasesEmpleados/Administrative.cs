@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ClasesEmpleados
 {
-    public class Administrative : Worker
+    public class Administrative : Worker, ITurnos
     {
+        public string Turno { get; set; }
+
         public Administrative(string nombre, int años) : base(nombre, años)
         {
         }
@@ -15,6 +17,17 @@ namespace ClasesEmpleados
         public override string ToString()
         {
             return $"Administrative: {Nombre} ({Años} años)";
+        }
+
+        public override string ObtenerNumeroEmpleado()
+        {
+            return "Admin-" + Id.ToString();
+        }
+
+        public override void CalcularVacaciones()
+        {
+            base.CalcularVacaciones();
+            numeroDiasVacaciones += 6;
         }
     }
 }

@@ -1,0 +1,31 @@
+﻿@model List<ParMoneda>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>Moneda Origen</th>
+            <th>Moneda Destino</th>
+            <th>Factor de Conversión</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var par in Model)
+        {
+            <tr>
+                <td>@par.Id</td>
+                <td>@par.MonedaOrigen</td>
+                <td>@par.MonedaDestino</td>
+                <td>@par.FactorConversion</td>
+            </tr>
+        }
+    </tbody>
+</table>

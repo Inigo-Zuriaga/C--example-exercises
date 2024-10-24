@@ -10,5 +10,9 @@
         {
             return $"Senior Management: {Nombre} ({Años} años)";
         }
+        public override string ObtenerNumeroEmpleado()
+        {
+            return "Senior-" + Id.ToString();
+        }
     }
 }

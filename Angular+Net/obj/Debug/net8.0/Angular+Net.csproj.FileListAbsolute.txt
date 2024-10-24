@@ -1,0 +1,8 @@
+C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\Angular+Net\obj\Debug\net8.0\Angular+Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\Angular+Net\obj\Debug\net8.0\Angular+Net.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\Angular+Net\obj\Debug\net8.0\Angular+Net.AssemblyInfo.cs
+C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\Angular+Net\obj\Debug\net8.0\Angular+Net.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\Angular+Net\obj\Debug\net8.0\Angular+Net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\Angular+Net\obj\Debug\net8.0\Angular+Net.RazorAssemblyInfo.cache
+C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\Angular+Net\obj\Debug\net8.0\Angular+Net.RazorAssemblyInfo.cs
+C:\Users\CursosTardes\Desktop\CursoNET-Azure\C#\Angular+Net\obj\Debug\net8.0\Angular+Net.sourcelink.json

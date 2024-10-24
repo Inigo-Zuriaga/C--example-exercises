@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Moneda>
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Lista de Monedas</h2>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Código</th>
+                    <th scope="col">Símbolo</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var moneda in Model)
+                {
+                    <tr>
+                        <td>@moneda.Nombre</td>
+                        <td>@moneda.Codigo</td>
+                        <td>@moneda.Simbolo</td>
+                        <td>
+                            <a href="@Url.Action("Detalles", "Monedas", new { id = moneda.Id })" class="btn btn-info btn-sm">
+                                <i class="fas fa-info-circle"></i> Ver Detalles
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elementos en Bloque vs En Línea</title>
+  <style>
+    /* Estilos para elementos en bloque */
+    div {
+      background-color: lightblue;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+
+    /* Estilos para elementos en línea */
+    span {
+      color: red;
+      background-color: yellow;
+    }
+
+    p {
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Elemento en bloque -->
+  <div>
+    Este es un contenedor de bloque. Ocupa todo el ancho disponible.
+    <p>Este párrafo también es un bloque que se ajusta a todo el ancho disponible.</p>
+  </div>
+
+  <!-- Elemento en línea dentro de un elemento en bloque -->
+  <p>
+    Este es un párrafo y dentro hay un
+    <span style="font-weight: bold;">elemento en línea</span> que solo ocupa el espacio necesario.
+  </p>
+
+  <!-- Otro ejemplo de un enlace (inline element) dentro de un bloque -->
+  <p>
+    Puedes visitar <a href="https://www.ejemplo.com" style="color: green;">este enlace</a>, que es un elemento en línea, en la misma línea que este texto.
+  </p>
+
+</body>
+</html>

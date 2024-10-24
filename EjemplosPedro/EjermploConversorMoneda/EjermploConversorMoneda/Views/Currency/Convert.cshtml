@@ -1,0 +1,28 @@
+﻿@model CurrencyConversionViewModel
+
+<form asp-action="Convert" method="post">
+    <div>
+        <label for="Amount">Importe:</label>
+        <input asp-for="Amount" type="number" step="0.01" min="0.01" />
+        <span asp-validation-for="Amount"></span>
+    </div>
+    <div>
+        <label for="SourceCurrency">Divisa de origen:</label>
+        <select asp-for="SourceCurrency" asp-items="@(new SelectList(Model.ValidCurrencyCodes))"></select>
+        <span asp-validation-for="SourceCurrency"></span>
+    </div>
+    <div>
+        <label for="TargetCurrency">Divisa de destino:</label>
+        <select asp-for="TargetCurrency" asp-items="@(new SelectList(Model.ValidCurrencyCodes))"></select>
+        <span asp-validation-for="TargetCurrency"></span>
+    </div>
+    <button type="submit">Convertir</button>
+</form>
+
+@if (Model.Result != 0)
+{
+    <div>
+        <h2>Resultado de la conversión:</h2>
+        <p>@Model.Result</p>
+    </div>
+}

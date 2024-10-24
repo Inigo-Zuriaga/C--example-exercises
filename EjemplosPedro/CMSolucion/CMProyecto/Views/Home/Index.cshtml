@@ -1,0 +1,26 @@
+﻿@model CMProyecto.ViewModels.HomeIndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+ @* Empresa = "Mi empresa",
+                NombreApp = "Mi aplicacion",
+                Version = "1.0",
+                Fecha = DateTime.Now,
+                Autor = "Mi nombre",
+                Descripcion = "Mi descripcion" *@
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@Model.Empresa
+@Model.NombreApp
+@Model.Version
+@Model.Fecha
+@Model.Autor
+@Model.Descripcion
+@Model.Multiplicacion
+@Model.Poblacion

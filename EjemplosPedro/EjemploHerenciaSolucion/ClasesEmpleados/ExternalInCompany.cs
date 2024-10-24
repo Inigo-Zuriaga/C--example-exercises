@@ -12,5 +12,10 @@ namespace ClasesEmpleados
         {
             Department = department;
         }
+
+        public override string ObtenerNumeroEmpleado()
+        {
+            return "Esternal-" + Id.ToString();
+        }
     }
 }

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|c:\\users\\cursostardes\\desktop\\cursonet-azure\\c#\\angular\u002Bnet\\clientapp\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|solutionrelative:clientapp\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|c:\\users\\cursostardes\\desktop\\cursonet-azure\\c#\\angular\u002Bnet\\clientapp\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|solutionrelative:clientapp\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|c:\\users\\cursostardes\\desktop\\cursonet-azure\\c#\\angular\u002Bnet\\clientapp\\app.module.html||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|solutionrelative:clientapp\\app.module.html||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|c:\\users\\cursostardes\\desktop\\cursonet-azure\\c#\\angular\u002Bnet\\clientapp\\src\\app\\saludo\\saludo.component.html||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|solutionrelative:clientapp\\src\\app\\saludo\\saludo.component.html||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|c:\\users\\cursostardes\\desktop\\cursonet-azure\\c#\\angular\u002Bnet\\clientapp\\src\\app\\saludo\\saludo.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|solutionrelative:clientapp\\src\\app\\saludo\\saludo.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|c:\\users\\cursostardes\\desktop\\cursonet-azure\\c#\\angular\u002Bnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90BD040-CD73-4626-8F69-DF7AE0FE1EE9}|Angular\u002BNet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.module.html",
+              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\app.module.html",
+              "RelativeDocumentMoniker": "ClientApp\\app.module.html",
+              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\app.module.html",
+              "RelativeToolTip": "ClientApp\\app.module.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-23T16:55:35.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\app.module.ts",
+              "RelativeDocumentMoniker": "ClientApp\\app.module.ts",
+              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\app.module.ts",
+              "RelativeToolTip": "ClientApp\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-23T16:54:20.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "saludo.component.html",
+              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\src\\app\\saludo\\saludo.component.html",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\saludo\\saludo.component.html",
+              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\src\\app\\saludo\\saludo.component.html",
+              "RelativeToolTip": "ClientApp\\src\\app\\saludo\\saludo.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-23T16:53:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\src\\app\\app.component.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-23T16:53:30.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "saludo.component.ts",
+              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\src\\app\\saludo\\saludo.component.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\saludo\\saludo.component.ts",
+              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\ClientApp\\src\\app\\saludo\\saludo.component.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\saludo\\saludo.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-23T16:53:14.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CursosTardes\\Desktop\\CursoNET-Azure\\C#\\Angular\u002BNet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:42:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

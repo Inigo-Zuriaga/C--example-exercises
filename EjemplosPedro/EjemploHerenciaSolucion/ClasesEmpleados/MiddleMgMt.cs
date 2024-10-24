@@ -10,5 +10,10 @@
         {
             return $"Middle Management: {Nombre} ({Años} años)";
         }
+
+        public override string ObtenerNumeroEmpleado()
+        {
+            return "Middle-" + Id.ToString();
+        }
     }
 }
